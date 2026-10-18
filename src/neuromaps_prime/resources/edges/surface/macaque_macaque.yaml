@@ -1,3 +1,9 @@
+# Lepage et al. (2021) is credited for the CIVET method: section 2.13
+# reports D99 to the CIVET average; section 2.11 discusses mapping the
+# CIVET average to Yerkes19. Reverse use is inferred. These citations
+# do not establish the provenance of the exact OSF registration files.
+# Other CIVET template pairs require a verified transformation source.
+
 - from: CIVETNMT
   to: D99
   surfaces:
@@ -37,10 +43,6 @@
         sphere:
           left: https://files.osf.io/v1/resources/nmxfh/providers/osfstorage/6a1f48fad4be03f6846ba241
           right: https://files.osf.io/v1/resources/nmxfh/providers/osfstorage/6a1f48fbedf908b2217df3d4
-      references:
-      - citation: Lepage, C., et al. 2021. NeuroImage. 227:117622.
-        doi: 10.1016/j.neuroimage.2020.117622
-        url: https://www.sciencedirect.com/science/article/pii/S1053811920311071?via%3Dihub
 
 - from: CIVETNMT
   to: Yerkes19
@@ -53,7 +55,6 @@
         sphere:
           left: https://files.osf.io/v1/resources/nmxfh/providers/osfstorage/6a1f4badf44e0687016b9f1d
           right: https://files.osf.io/v1/resources/nmxfh/providers/osfstorage/6a1f4bae4ec6fad47d6b998a
-      # Surface mapping to Yerkes19 is discussed in Lepage et al., section 2.11.
       references:
       - citation: Lepage, C., et al. 2021. NeuroImage. 227:117622.
         doi: 10.1016/j.neuroimage.2020.117622
@@ -323,10 +324,6 @@
         sphere:
           left: https://files.osf.io/v1/resources/nmxfh/providers/osfstorage/6a1f43760ad6228a4a6b9bb2
           right: https://files.osf.io/v1/resources/nmxfh/providers/osfstorage/6a1f4376b30df7012c7df8d5
-      references:
-      - citation: Lepage, C., et al. 2021. NeuroImage. 227:117622.
-        doi: 10.1016/j.neuroimage.2020.117622
-        url: https://www.sciencedirect.com/science/article/pii/S1053811920311071?via%3Dihub
 
 - from: NMT2Sym
   to: D99
@@ -357,10 +354,6 @@
         sphere:
           left: https://files.osf.io/v1/resources/nmxfh/providers/osfstorage/6a1f44a5f44e0687016b9bb0
           right: https://files.osf.io/v1/resources/nmxfh/providers/osfstorage/6a1f44a54cf949e3cd7df833
-      references:
-      - citation: Lepage, C., et al. 2021. NeuroImage. 227:117622.
-        doi: 10.1016/j.neuroimage.2020.117622
-        url: https://www.sciencedirect.com/science/article/pii/S1053811920311071?via%3Dihub
 
 - from: NMT2Sym
   to: MEBRAINS

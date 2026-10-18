@@ -1,21 +1,37 @@
+# The DOI credits RheMAP software v1.3. GIN hosts current warp files,
+# including additions after that release. OSF copies were verified
+# against the corresponding uncompressed GIN files.
+
 - from: MEBRAINS
   to: Yerkes19
   volumes:
     RheMap:
       500um:
         composite: https://files.osf.io/v1/resources/nmxfh/providers/osfstorage/6a1f4cc74ec6fad47d6b9a32?view_only=b214f40525fe44b5bea3103478d08d0d
+      references:
+      - citation: 'Klink, C., & Sirmpilatze, N. 2020. PRIME-RE/RheMAP: RheMAP v1.3 "Corona Edition".'
+        doi: 10.5281/zenodo.3780711
+        url: https://gin.g-node.org/ChrisKlink/RheMAP
 - from: MEBRAINS
   to: D99
   volumes:
     RheMap:
       250um:
         composite: https://files.osf.io/v1/resources/nmxfh/providers/osfstorage/6a1f4485b30df7012c7df93b?view_only=b214f40525fe44b5bea3103478d08d0d
+      references:
+      - citation: 'Klink, C., & Sirmpilatze, N. 2020. PRIME-RE/RheMAP: RheMAP v1.3 "Corona Edition".'
+        doi: 10.5281/zenodo.3780711
+        url: https://gin.g-node.org/ChrisKlink/RheMAP
 - from: MEBRAINS
   to: NMT2Sym
   volumes:
     RheMap:
       250um:
         composite: https://files.osf.io/v1/resources/nmxfh/providers/osfstorage/6a1f4a8fedf908b2217df529?view_only=b214f40525fe44b5bea3103478d08d0d
+      references:
+      - citation: 'Klink, C., & Sirmpilatze, N. 2020. PRIME-RE/RheMAP: RheMAP v1.3 "Corona Edition".'
+        doi: 10.5281/zenodo.3780711
+        url: https://gin.g-node.org/ChrisKlink/RheMAP
 - from: MEBRAINS
   to: F99
   volumes:
@@ -23,9 +39,9 @@
       500um:
         composite: https://gin.g-node.org/ChrisKlink/RheMAP/raw/master/warps/final/MEBRAINS_to_F99_CompositeWarp.nii.gz
       references:
-      - citation: Sirmpilatze, N. & Klink, P.C. 2020.
+      - citation: 'Klink, C., & Sirmpilatze, N. 2020. PRIME-RE/RheMAP: RheMAP v1.3 "Corona Edition".'
         doi: 10.5281/zenodo.3780711
-        url: https://zenodo.org/records/4748589
+        url: https://gin.g-node.org/ChrisKlink/RheMAP
 - from: MEBRAINS
   to: NMT2Asym
   volumes:
@@ -33,21 +49,29 @@
       250um:
         composite: https://gin.g-node.org/ChrisKlink/RheMAP/raw/master/warps/final/MEBRAINS_to_NMTv2.0-asym_CompositeWarp.nii.gz
       references:
-      - citation: Sirmpilatze, N. & Klink, P.C. 2020.
+      - citation: 'Klink, C., & Sirmpilatze, N. 2020. PRIME-RE/RheMAP: RheMAP v1.3 "Corona Edition".'
         doi: 10.5281/zenodo.3780711
-        url: https://zenodo.org/records/4748589
+        url: https://gin.g-node.org/ChrisKlink/RheMAP
 - from: D99
   to: MEBRAINS
   volumes:
     RheMap:
       400um:
         composite: https://files.osf.io/v1/resources/nmxfh/providers/osfstorage/6a1f4784d4be03f6846ba1df?view_only=b214f40525fe44b5bea3103478d08d0d
+      references:
+      - citation: 'Klink, C., & Sirmpilatze, N. 2020. PRIME-RE/RheMAP: RheMAP v1.3 "Corona Edition".'
+        doi: 10.5281/zenodo.3780711
+        url: https://gin.g-node.org/ChrisKlink/RheMAP
 - from: D99
   to: NMT2Sym
   volumes:
     RheMap:
       250um:
         composite: https://files.osf.io/v1/resources/nmxfh/providers/osfstorage/6a1f49cef44e0687016b9d7f?view_only=b214f40525fe44b5bea3103478d08d0d
+      references:
+      - citation: 'Klink, C., & Sirmpilatze, N. 2020. PRIME-RE/RheMAP: RheMAP v1.3 "Corona Edition".'
+        doi: 10.5281/zenodo.3780711
+        url: https://gin.g-node.org/ChrisKlink/RheMAP
 - from: D99
   to: NMT2Asym
   volumes:
@@ -55,15 +79,19 @@
       250um:
         composite: https://gin.g-node.org/ChrisKlink/RheMAP/raw/master/warps/final/D99_to_NMTv2.0-asym_CompositeWarp.nii.gz
       references:
-      - citation: Sirmpilatze, N. & Klink, P.C. 2020.
+      - citation: 'Klink, C., & Sirmpilatze, N. 2020. PRIME-RE/RheMAP: RheMAP v1.3 "Corona Edition".'
         doi: 10.5281/zenodo.3780711
-        url: https://zenodo.org/records/4748589
+        url: https://gin.g-node.org/ChrisKlink/RheMAP
 - from: D99
   to: Yerkes19
   volumes:
     RheMap:
       500um:
         composite: https://files.osf.io/v1/resources/nmxfh/providers/osfstorage/6a1f4c241e78bf36907dfa17?view_only=b214f40525fe44b5bea3103478d08d0d
+      references:
+      - citation: 'Klink, C., & Sirmpilatze, N. 2020. PRIME-RE/RheMAP: RheMAP v1.3 "Corona Edition".'
+        doi: 10.5281/zenodo.3780711
+        url: https://gin.g-node.org/ChrisKlink/RheMAP
 - from: D99
   to: F99
   volumes:
@@ -71,21 +99,29 @@
       500um:
         composite: https://gin.g-node.org/ChrisKlink/RheMAP/raw/master/warps/final/D99_to_F99_CompositeWarp.nii.gz
       references:
-      - citation: Sirmpilatze, N. & Klink, P.C. 2020.
+      - citation: 'Klink, C., & Sirmpilatze, N. 2020. PRIME-RE/RheMAP: RheMAP v1.3 "Corona Edition".'
         doi: 10.5281/zenodo.3780711
-        url: https://zenodo.org/records/4748589
+        url: https://gin.g-node.org/ChrisKlink/RheMAP
 - from: NMT2Sym
   to: MEBRAINS
   volumes:
     RheMap:
       400um:
         composite: https://files.osf.io/v1/resources/nmxfh/providers/osfstorage/6a1f4801d4be03f6846ba1fc?view_only=b214f40525fe44b5bea3103478d08d0d
+      references:
+      - citation: 'Klink, C., & Sirmpilatze, N. 2020. PRIME-RE/RheMAP: RheMAP v1.3 "Corona Edition".'
+        doi: 10.5281/zenodo.3780711
+        url: https://gin.g-node.org/ChrisKlink/RheMAP
 - from: NMT2Sym
   to: D99
   volumes:
     RheMap:
       250um:
         composite: https://files.osf.io/v1/resources/nmxfh/providers/osfstorage/6a1f45904cf949e3cd7df899?view_only=b214f40525fe44b5bea3103478d08d0d
+      references:
+      - citation: 'Klink, C., & Sirmpilatze, N. 2020. PRIME-RE/RheMAP: RheMAP v1.3 "Corona Edition".'
+        doi: 10.5281/zenodo.3780711
+        url: https://gin.g-node.org/ChrisKlink/RheMAP
 - from: NMT2Sym
   to: NMT2Asym
   volumes:
@@ -93,15 +129,19 @@
       250um:
         composite: https://gin.g-node.org/ChrisKlink/RheMAP/raw/master/warps/final/NMTv2.0-sym_to_NMTv2.0-asym_CompositeWarp.nii.gz
       references:
-      - citation: Sirmpilatze, N. & Klink, P.C. 2020.
+      - citation: 'Klink, C., & Sirmpilatze, N. 2020. PRIME-RE/RheMAP: RheMAP v1.3 "Corona Edition".'
         doi: 10.5281/zenodo.3780711
-        url: https://zenodo.org/records/4748589
+        url: https://gin.g-node.org/ChrisKlink/RheMAP
 - from: NMT2Sym
   to: Yerkes19
   volumes:
     RheMap:
       500um:
         composite: https://files.osf.io/v1/resources/nmxfh/providers/osfstorage/6a1f4d4daa01d3aabe3935e6?view_only=b214f40525fe44b5bea3103478d08d0d
+      references:
+      - citation: 'Klink, C., & Sirmpilatze, N. 2020. PRIME-RE/RheMAP: RheMAP v1.3 "Corona Edition".'
+        doi: 10.5281/zenodo.3780711
+        url: https://gin.g-node.org/ChrisKlink/RheMAP
 - from: NMT2Sym
   to: F99
   volumes:
@@ -109,9 +149,9 @@
       500um:
         composite: https://gin.g-node.org/ChrisKlink/RheMAP/raw/master/warps/final/NMTv2.0-0.5mm-sym_to_F99_CompositeWarp.nii.gz
       references:
-      - citation: Sirmpilatze, N. & Klink, P.C. 2020.
+      - citation: 'Klink, C., & Sirmpilatze, N. 2020. PRIME-RE/RheMAP: RheMAP v1.3 "Corona Edition".'
         doi: 10.5281/zenodo.3780711
-        url: https://zenodo.org/records/4748589
+        url: https://gin.g-node.org/ChrisKlink/RheMAP
 - from: NMT2Asym
   to: MEBRAINS
   volumes:
@@ -119,9 +159,9 @@
       400um:
         composite: https://gin.g-node.org/ChrisKlink/RheMAP/raw/master/warps/final/NMTv2.0-asym_to_MEBRAINS_CompositeWarp.nii.gz
       references:
-      - citation: Sirmpilatze, N. & Klink, P.C. 2020.
+      - citation: 'Klink, C., & Sirmpilatze, N. 2020. PRIME-RE/RheMAP: RheMAP v1.3 "Corona Edition".'
         doi: 10.5281/zenodo.3780711
-        url: https://zenodo.org/records/4748589
+        url: https://gin.g-node.org/ChrisKlink/RheMAP
 - from: NMT2Asym
   to: D99
   volumes:
@@ -129,9 +169,9 @@
       250um:
         composite: https://gin.g-node.org/ChrisKlink/RheMAP/raw/master/warps/final/NMTv2.0-asym_to_D99_CompositeWarp.nii.gz
       references:
-      - citation: Sirmpilatze, N. & Klink, P.C. 2020.
+      - citation: 'Klink, C., & Sirmpilatze, N. 2020. PRIME-RE/RheMAP: RheMAP v1.3 "Corona Edition".'
         doi: 10.5281/zenodo.3780711
-        url: https://zenodo.org/records/4748589
+        url: https://gin.g-node.org/ChrisKlink/RheMAP
 - from: NMT2Asym
   to: NMT2Sym
   volumes:
@@ -139,9 +179,9 @@
       250um:
         composite: https://gin.g-node.org/ChrisKlink/RheMAP/raw/master/warps/final/NMTv2.0-asym_to_NMTv2.0-sym_CompositeWarp.nii.gz
       references:
-      - citation: Sirmpilatze, N. & Klink, P.C. 2020.
+      - citation: 'Klink, C., & Sirmpilatze, N. 2020. PRIME-RE/RheMAP: RheMAP v1.3 "Corona Edition".'
         doi: 10.5281/zenodo.3780711
-        url: https://zenodo.org/records/4748589
+        url: https://gin.g-node.org/ChrisKlink/RheMAP
 - from: NMT2Asym
   to: Yerkes19
   volumes:
@@ -149,9 +189,9 @@
       500um:
         composite: https://gin.g-node.org/ChrisKlink/RheMAP/raw/master/warps/final/NMTv2.0-asym_to_YRK_CompositeWarp.nii.gz
       references:
-      - citation: Sirmpilatze, N. & Klink, P.C. 2020.
+      - citation: 'Klink, C., & Sirmpilatze, N. 2020. PRIME-RE/RheMAP: RheMAP v1.3 "Corona Edition".'
         doi: 10.5281/zenodo.3780711
-        url: https://zenodo.org/records/4748589
+        url: https://gin.g-node.org/ChrisKlink/RheMAP
 - from: NMT2Asym
   to: F99
   volumes:
@@ -159,27 +199,39 @@
       500um:
         composite: https://gin.g-node.org/ChrisKlink/RheMAP/raw/master/warps/final/NMTv2.0-asym_to_F99_CompositeWarp.nii.gz
       references:
-      - citation: Sirmpilatze, N. & Klink, P.C. 2020.
+      - citation: 'Klink, C., & Sirmpilatze, N. 2020. PRIME-RE/RheMAP: RheMAP v1.3 "Corona Edition".'
         doi: 10.5281/zenodo.3780711
-        url: https://zenodo.org/records/4748589
+        url: https://gin.g-node.org/ChrisKlink/RheMAP
 - from: Yerkes19
   to: MEBRAINS
   volumes:
     RheMap:
       400um:
         composite: https://files.osf.io/v1/resources/nmxfh/providers/osfstorage/6a1f48b4f44e0687016b9d54?view_only=b214f40525fe44b5bea3103478d08d0d
+      references:
+      - citation: 'Klink, C., & Sirmpilatze, N. 2020. PRIME-RE/RheMAP: RheMAP v1.3 "Corona Edition".'
+        doi: 10.5281/zenodo.3780711
+        url: https://gin.g-node.org/ChrisKlink/RheMAP
 - from: Yerkes19
   to: D99
   volumes:
     RheMap:
       250um:
         composite: https://files.osf.io/v1/resources/nmxfh/providers/osfstorage/6a1f46b9c63a718cdfb8d1d2?view_only=b214f40525fe44b5bea3103478d08d0d
+      references:
+      - citation: 'Klink, C., & Sirmpilatze, N. 2020. PRIME-RE/RheMAP: RheMAP v1.3 "Corona Edition".'
+        doi: 10.5281/zenodo.3780711
+        url: https://gin.g-node.org/ChrisKlink/RheMAP
 - from: Yerkes19
   to: NMT2Sym
   volumes:
     RheMap:
       250um:
         composite: https://files.osf.io/v1/resources/nmxfh/providers/osfstorage/6a1f4b719b6fa812c2b8cc6d?view_only=b214f40525fe44b5bea3103478d08d0d
+      references:
+      - citation: 'Klink, C., & Sirmpilatze, N. 2020. PRIME-RE/RheMAP: RheMAP v1.3 "Corona Edition".'
+        doi: 10.5281/zenodo.3780711
+        url: https://gin.g-node.org/ChrisKlink/RheMAP
 - from: Yerkes19
   to: F99
   volumes:
@@ -187,9 +239,9 @@
       500um:
         composite: https://gin.g-node.org/ChrisKlink/RheMAP/raw/master/warps/final/YRK_to_F99_CompositeWarp.nii.gz
       references:
-      - citation: Sirmpilatze, N. & Klink, P.C. 2020.
+      - citation: 'Klink, C., & Sirmpilatze, N. 2020. PRIME-RE/RheMAP: RheMAP v1.3 "Corona Edition".'
         doi: 10.5281/zenodo.3780711
-        url: https://zenodo.org/records/4748589
+        url: https://gin.g-node.org/ChrisKlink/RheMAP
 - from: F99
   to: MEBRAINS
   volumes:
@@ -197,9 +249,9 @@
       400um:
         composite: https://gin.g-node.org/ChrisKlink/RheMAP/raw/master/warps/final/F99_to_MEBRAINS_CompositeWarp.nii.gz
       references:
-      - citation: Sirmpilatze, N. & Klink, P.C. 2020.
+      - citation: 'Klink, C., & Sirmpilatze, N. 2020. PRIME-RE/RheMAP: RheMAP v1.3 "Corona Edition".'
         doi: 10.5281/zenodo.3780711
-        url: https://zenodo.org/records/4748589
+        url: https://gin.g-node.org/ChrisKlink/RheMAP
 - from: F99
   to: NMT2Sym
   volumes:
@@ -207,9 +259,9 @@
       250um:
         composite: https://gin.g-node.org/ChrisKlink/RheMAP/raw/master/warps/final/F99_to_NMTv2.0-sym_CompositeWarp.nii.gz
       references:
-      - citation: Sirmpilatze, N. & Klink, P.C. 2020.
+      - citation: 'Klink, C., & Sirmpilatze, N. 2020. PRIME-RE/RheMAP: RheMAP v1.3 "Corona Edition".'
         doi: 10.5281/zenodo.3780711
-        url: https://zenodo.org/records/4748589
+        url: https://gin.g-node.org/ChrisKlink/RheMAP
 - from: F99
   to: Yerkes19
   volumes:
@@ -217,9 +269,9 @@
       500um:
         composite: https://gin.g-node.org/ChrisKlink/RheMAP/raw/master/warps/final/F99_to_YRK_CompositeWarp.nii.gz
       references:
-      - citation: Sirmpilatze, N. & Klink, P.C. 2020.
+      - citation: 'Klink, C., & Sirmpilatze, N. 2020. PRIME-RE/RheMAP: RheMAP v1.3 "Corona Edition".'
         doi: 10.5281/zenodo.3780711
-        url: https://zenodo.org/records/4748589
+        url: https://gin.g-node.org/ChrisKlink/RheMAP
 - from: F99
   to: D99
   volumes:
@@ -227,9 +279,9 @@
       250um:
         composite: https://gin.g-node.org/ChrisKlink/RheMAP/raw/master/warps/final/F99_to_D99_CompositeWarp.nii.gz
       references:
-      - citation: Sirmpilatze, N. & Klink, P.C. 2020.
+      - citation: 'Klink, C., & Sirmpilatze, N. 2020. PRIME-RE/RheMAP: RheMAP v1.3 "Corona Edition".'
         doi: 10.5281/zenodo.3780711
-        url: https://zenodo.org/records/4748589
+        url: https://gin.g-node.org/ChrisKlink/RheMAP
 - from: F99
   to: NMT2Asym
   volumes:
@@ -237,6 +289,6 @@
       250um:
         composite: https://gin.g-node.org/ChrisKlink/RheMAP/raw/master/warps/final/F99_to_NMTv2.0-asym_CompositeWarp.nii.gz
       references:
-      - citation: Sirmpilatze, N. & Klink, P.C. 2020.
+      - citation: 'Klink, C., & Sirmpilatze, N. 2020. PRIME-RE/RheMAP: RheMAP v1.3 "Corona Edition".'
         doi: 10.5281/zenodo.3780711
-        url: https://zenodo.org/records/4748589
+        url: https://gin.g-node.org/ChrisKlink/RheMAP
