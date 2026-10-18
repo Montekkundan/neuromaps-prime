@@ -1,7 +1,3 @@
-# The DOI credits RheMAP software v1.3. GIN hosts current warp files,
-# including additions after that release. OSF copies were verified
-# against the corresponding uncompressed GIN files.
-
 - from: MEBRAINS
   to: Yerkes19
   volumes:

@@ -1,9 +1,3 @@
-# Lepage et al. (2021) is credited for the CIVET method: section 2.13
-# reports D99 to the CIVET average; section 2.11 discusses mapping the
-# CIVET average to Yerkes19. Reverse use is inferred. These citations
-# do not establish the provenance of the exact OSF registration files.
-# Other CIVET template pairs require a verified transformation source.
-
 - from: CIVETNMT
   to: D99
   surfaces:
